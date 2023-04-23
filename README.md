@@ -30,7 +30,7 @@ Our Data Science Mini-Project focuses on the Happiness Scores of countries found
 - https://www.kaggle.com/datasets/synful/world-happiness-report
 - https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
 - https://data.oecd.org/healthrisk/social-support.htm
-- 
+- https://hdr.undp.org/content/human-development-report-2019
 - https://www.cato.org/human-freedom-index/2019
 - https://www.cafonline.org/docs/default-source/about-us-publications/caf_wgi_10th_edition_report_2712a_web_101019.pdf
 - https://data.oecd.org/gga/trust-in-government.htm
